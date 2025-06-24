@@ -8,7 +8,7 @@ This repository contains the GSRF (Go Symbol Representation Format) specificatio
 
 ## Repository Structure
 
-- `spec.md` - The complete GSRF specification document defining v1.0 and v1.1 formats
+- `README.md` - The complete GSRF specification document defining v1.0 and v1.1 formats
 - `.claude/` - Claude AI assistant configuration
 
 ## Key Concepts
@@ -35,7 +35,7 @@ The parent directory contains related implementations:
 ## Common Tasks
 
 Since this is a specification document:
-- To review the specification: Read `spec.md`
+- To review the specification: Read `README.md`
 - To understand grammar: See sections 5.1 (v1.0 BNF) and 6.2 (v1.1 BNF)
 - To see examples: Refer to section 9 in the spec
 - To understand migration from other formats: See section 8
